@@ -1,0 +1,232 @@
+body {
+    padding: 0;
+    margin: 0;
+    min-height: 100vh;
+    font-family: Calibri Light;
+    font-style: italic;
+    font-size: 20px;
+    color: #ffffff;
+    background-image: url("../content/achtergrondvertical.jpg");
+    background-size: 110%, cover;
+}
+
+/* Navigatiebalk */
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 20px;
+    background-color: transparent;
+}
+
+.nav-item {
+    width: 50px;
+    height: auto;
+}
+
+.logo {
+    width: 70px;
+    height: auto;
+    margin: 0 auto;
+}
+
+/* Main */
+.lijntje hr {
+    height: 3px;
+    width: 50%;
+    margin-left: 10vw;
+    border: 0;
+    background: #ffffff;
+}
+
+.rebel{
+    margin-top: 17vh;
+}
+
+.reserveren{
+    margin-top: 13vh;
+}
+
+.maintekst h1, .maintekst h2{
+    margin-left: 10vw;
+}
+
+.maintekst p{
+    width: 70%;
+    margin-left: 10vw;
+    font-size: 25px;
+}
+
+.onderlijn{
+    text-decoration: underline;
+}
+
+/* Login formulier */
+.login-container {
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    margin-top: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.login-container h1 {
+    margin-bottom: 20px;
+    color: #000;
+    font-weight: bold;
+}
+
+.login-container label {
+    display: block;
+    color: #000;
+    margin-top: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.login-container input[type="text"],
+.login-container input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    color: #000;
+    background-color: #fff;
+    border: 0;
+    border-radius: 5px;
+}
+
+.login-container input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #000;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.login-container input[type="submit"]:hover {
+    background-color: #bfbfbf;
+}
+
+.login-container .register-link a {
+    color: #000;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+.login-container .register-link a:hover {
+    text-decoration: underline;
+}
+
+/* Uitloggen */
+.uitloggen{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Overzicht activiteiten */
+/* h1 */
+.activiteiten h1{
+    text-align: center;
+}
+
+.activiteiten {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Tabel */
+table {
+    width: 90%;
+    background-color: #fff;
+    color: #000;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    color: #000;
+    background-color: #f2f2f2;
+}
+
+.space{
+    background-color: grey;
+}
+
+/* CSS voor de knop */
+.mooie-knop {
+    background-color: #f2f2f2;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+/* CSS voor de hover-stijl van de knop */
+.mooie-knop:hover {
+    background-color: #b1b1b1; /* Donkergroene achtergrondkleur bij hover */
+}
+
+/* div toevoeg ding */
+.toevoeg{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.toevoeg h1{
+    font-size: 20px;
+    text-align: left;
+}
+
+/* Zoeken */
+.zoek{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.zoek h1{
+    font-size: 20px;
+    text-align: left;
+}
+
+/* Bewerken */
+.bewerk{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bewerk h1{
+    font-size: 20px;
+    text-align: left;
+}
+
+/* Footer */
+footer{
+    position: sticky;
+    text-align: center;
+    font-size: 26px;
+    bottom: 0;
+    width: 100%;
+    background-color: #234f40;
+}

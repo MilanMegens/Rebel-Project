@@ -1,0 +1,36 @@
+Saving changes for DinerID: 1005, Description: zwemmen met disco, Start: 2024-05-31T08:43, End: 2024-06-08T08:43, Location: Golfbad oss
+Error: SQLSTATE[22018]: Invalid character value for cast specification: [Microsoft][SQL Server Native Client 11.0]Invalid character value for cast specification (SQLExecute[0] at ext\pdo_odbc\odbc_stmt.c:257)
+Saving changes for DinerID: 1005, Description: zwemmen met disco, Start: 2024-05-31T08:43, End: 2024-06-08T08:43, Location: Golfbad oss
+Error: SQLSTATE[22018]: Invalid character value for cast specification: [Microsoft][SQL Server Native Client 11.0]Invalid character value for cast specification (SQLExecute[0] at ext\pdo_odbc\odbc_stmt.c:257)
+Saving changes for DinerID: 1005, Description: zwemmen met disco, Start: 2024-05-31 08:43:00, End: 2024-06-08 08:43:00, Location: Golfbad oss
+Update successful.
+Saving changes for DinerID: 1005, Description: zwemmen, Start: 2024-05-31 08:43:00, End: 2024-06-08 08:43:00, Location: Golfbad oss
+Update successful.
+Saving changes for DinerID: 1, Description: ZomerBrunch2, Start: 2021-06-03 10:00:00, End: 2021-06-03 17:00:00, Location: Binnenplaats Vlijmense weg
+Update successful.
+Saving changes for DinerID: 1, Description: ZomerBrunch2, Start: 2021-06-03 10:00:00, End: 2021-06-03 17:00:00, Location: Binnenplaats Vlijmense weg
+Update successful.
+Saving changes for DinerID: 1, Description: ZomerBrunch2, Start: 2021-06-03 10:00:00, End: 2021-06-03 17:00:00, Location: Binnenplaats Vlijmense weg
+Update successful.
+Saving changes for DinerID: 2, Description: Heerboeren diner 2, Start: 2021-06-04 13:00:00, End: 2021-06-04 16:00:00, Location: Ons restaurant
+Update successful.
+Saving changes for DinerID: 2, Description: Heerboeren diner 1, Start: 2021-06-04 13:00:00, End: 2021-06-04 16:00:00, Location: Ons restaurant
+Update successful.
+Saving changes for DinerID: 2, Description: Heerboeren diner 1, Start: 2021-06-04 13:00:00, End: 2021-06-04 16:00:00, Location: Ons restaurant
+Update successful.
+Saving changes for DinerID: 1, Description: ZomerBrunch, Start: 2021-06-03 10:00:00, End: 2021-06-03 17:00:00, Location: Binnenplaats Vlijmense weg
+Update successful.
+Saving changes for DinerID: 1, Description: ZomerBrunch, Start: 2021-06-03 10:00:00, End: 2021-06-03 17:00:00, Location: Binnenplaats Vlijmense weg
+Update successful.
+Saving changes for DinerID: 1005, Description: zwemmen 2, Start: 2024-05-31 08:43:00, End: 2024-06-08 08:43:00, Location: Golfbad oss
+Update successful.
+Wijzigingen opslaan voor DinerID: 1006, Beschrijving: Zwemmen1, Start: 2024-06-14 11:13:00, Eind: 2024-06-15 11:13:00, Locatie: Golfbad oss
+Update succesvol.
+Wijzigingen opslaan voor DinerID: 1009, Beschrijving: zwemmen, Start: 2024-05-31 11:26:00, Eind: 2024-06-20 11:26:00, Locatie: Oss
+Update succesvol.
+Update succesvol.
+Update succesvol.
+Update succesvol.
+Update succesvol.
+Update succesvol.
+Update succesvol.
